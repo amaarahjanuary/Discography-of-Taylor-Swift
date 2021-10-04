@@ -39,7 +39,7 @@ li a {
 /* The :hover selector is used to select elements when you mouse over them. */
 li a:hover {
     /*  */
-    background-color: #666;
+    background-color:red;
 }
 
 li a .active {
